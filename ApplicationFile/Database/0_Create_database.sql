@@ -1,1 +1,1 @@
-create database toeiconline character set utf8
+create database toeiconline character set utf8;
